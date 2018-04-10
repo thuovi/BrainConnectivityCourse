@@ -7,5 +7,6 @@ Over the years I've accumulated a basic theoretical understanding of brain conne
 
 The course seems to be starting well, as I've also had a "theoretical" undestanding of GitHub but never took the time to actually do some hands-on work. But now, here we are.
 
-And here's a course relevant comic:
-[Neuro the Clown](https://www.smbc-comics.com/comics/20131118.png)
+And here's a course relevant comic: 
+![alt text][ntc]
+[ntc]: https://www.smbc-comics.com/comics/20131118.png "Neuro the Clown"
