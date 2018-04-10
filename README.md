@@ -9,4 +9,5 @@ The course seems to be starting well, as I've also had a "theoretical" undestand
 
 And here's a course relevant comic: 
 ![alt text][ntc]
+
 [ntc]: https://www.smbc-comics.com/comics/20131118.png "Neuro the Clown"
